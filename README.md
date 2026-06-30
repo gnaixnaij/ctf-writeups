@@ -1,5 +1,7 @@
 # CTF Writeups
 
+[![Ko-fi](https://img.shields.io/badge/Sponsor-Ko--fi-FF5E5B?style=flat-square&logo=ko-fi)](https://ko-fi.com/gnaixnaij)
+
 Capture The Flag challenge solutions and methodologies. Each writeup documents the approach, tools used, and key takeaways.
 
 ## Categories
@@ -48,3 +50,7 @@ platform/
 
 ## Key Takeaways
 ```
+
+## Support
+
+If these writeups help you, [buy me a coffee](https://ko-fi.com/gnaixnaij).
