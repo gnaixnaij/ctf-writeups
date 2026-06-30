@@ -1,0 +1,4 @@
+files/
+*.pcap
+*.bin
+*.elf
