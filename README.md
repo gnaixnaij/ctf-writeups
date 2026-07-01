@@ -27,7 +27,6 @@ platform/
 ## Platforms
 
 - [ ] HackTheBox
-- [ ] TryHackMe
 - [ ] PicoCTF
 - [ ] CTFtime
 
